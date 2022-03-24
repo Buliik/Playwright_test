@@ -1,0 +1,21 @@
+{
+  "name": "playwright_test",
+  "version": "1.0.0",
+  "description": "Trying some playwright things",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Buliik/Playwright_test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Buliik/Playwright_test/issues"
+  },
+  "homepage": "https://github.com/Buliik/Playwright_test#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.20.1"
+  }
+}
